@@ -46,7 +46,7 @@ function watch() {
 
 
 
-        proxy: "http://localhost:8888/project_template/",
+        proxy: "http://localhost:8888/Portfolio/",
         port: 8887
 
 
